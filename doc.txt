@@ -1,0 +1,16 @@
+e-school
+
+header...
+
+logo+color
+
+
+font-family...
+poppings 400, 700, 500
+roboto 400
+
+color....
+bg-#F0FFF0
+black-#000000
+green-#21B573
+white- #E5E5E5
